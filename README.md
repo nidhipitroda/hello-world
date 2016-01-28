@@ -1,2 +1,4 @@
 # hello-world
-world github
+
+exploring git-hub 
+git bash , coffee
